@@ -46,3 +46,179 @@
 
 
     
+      #why{
+        
+        max-width: 1140px;
+        height: 1393px;
+        margin: auto;
+        background-color: black;
+        
+        
+      }  
+    
+    
+      .title2{
+       text-align: center;
+       margin: 110px 200px 50px 200px;
+       
+      }
+    
+    .why-title{
+        font-weight: 800;
+        font-size: 32px;
+        width: 852px;
+        height: 37;
+        color: #0D1321;
+        text-align: center;
+        
+
+    }
+    .why-sub{
+       max-width: 852px;
+       height: 52px;
+       font-size: 16px;
+       font-weight: 400;
+       text-align: center;
+        }
+  
+         
+
+        .sec-1{
+        
+        margin-bottom: 32px;
+        display: flex;
+        justify-content: space-around;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        position: static;
+        width: 850px;
+        height: 240px;
+        margin: auto;
+
+       
+    }
+    .sec{
+        width: 477px;
+    }
+    .sec1-title{
+        font-weight: bold;
+        font-size: 24;
+    }
+.sec1-sub-title{
+    font-size: 16;
+    font-weight: 400;
+}
+.sec1-btn{
+    width: 171px;
+    height: 47px;
+    
+}
+.sec-btnn{
+    font-weight: 600px;
+    font-size: 20px;
+    color: #0D1321;
+    padding: 12px 20px 12px 20px;
+    text-decoration: none;
+}
+#sec-1{
+    display: flex;
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 850px;
+    height: 240px;
+    margin: auto;
+    margin-top: ;
+    
+    
+}
+
+
+
+.all-title{
+    
+
+
+}
+#curd{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bannar{
+    background-image:  url(../assets/handshake.jpg);
+    max-width: 1140px;
+    height: 313px;
+    margin: auto;
+    margin-bottom: 30px;
+    border-radius: 15px;
+    background-position: center;
+    background-attachment: fixed ;
+   
+       
+}
+#last{
+    text-align: center;
+    padding: 64px 48px 64px 48px;
+    color: #FFFFFF;
+    
+}
+#white{
+    font-size: 32;
+    font-weight: bold;
+    
+}
+#lastp{
+    font-size: 16;
+    font-weight: 400;
+    max-width: 606px;
+    padding-left: 200px;
+    margin-bottom: 24px;
+            
+}
+#textl{
+    width: 548px;
+    height: 57px;
+    border-radius: 10px;
+    border: none;
+    padding-left: 20px;
+}
+#buttonl{
+    width: 120px;
+    height: 57px;
+    border-radius: 10px;
+    border: none;
+    color: #0D1321;
+    font-size: 20;
+    font-weight: 600px;
+}
+
+
+
+#ftr{
+    display: flex;
+    justify-content: space-around;
+}
+#foot{
+    font-size: 20px;
+    font-weight: 600;
+}
