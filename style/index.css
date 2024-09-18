@@ -51,7 +51,7 @@
         max-width: 1140px;
         height: 1393px;
         margin: auto;
-        background-color: black;
+        
         
         
       }  
@@ -131,10 +131,33 @@
     
 }
 
-
+.video1{
+    width: 1140px;
+    height: 775px;
+    margin-top: 60px;
+    
+    
+}
+.video{
+    margin-left: 350px;
+    margin-top: 48px;
+}
+.vt{
+    font-weight: 600px;
+    font-size: 32;
+    text-align: center;
+}
+.vp{
+    font-size: 16;
+    font-weight: 400;
+    text-align: center;
+    width: 852px;
+    margin: auto;
+}
 
 .all-title{
     
+
 
 
 }
@@ -172,7 +195,7 @@
     margin-bottom: 30px;
     border-radius: 15px;
     background-position: center;
-    background-attachment: fixed ;
+    
    
        
 }
