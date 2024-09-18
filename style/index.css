@@ -38,8 +38,12 @@
         width: 244px;
         height: 64px;
         background-color: #0D1321;
-        color: #FFFFFF;
         margin-bottom: 25px;
+        font-size: 20px;
+        font-weight: 600;
+        color: #FFFFFF;
+    }
+    
     }
 
 
@@ -126,14 +130,13 @@
     width: 850px;
     height: 240px;
     margin: auto;
-    margin-top: ;
+    margin-top:5px ;
     
     
 }
 
 .video1{
-    width: 1140px;
-    height: 775px;
+    
     margin-top: 60px;
     
     
@@ -154,20 +157,49 @@
     width: 852px;
     margin: auto;
 }
-
-.all-title{
-    
-
-
-
+.text-center{
+    text-align: center;
 }
-#curd{
+.skills{
+    margin-top: 130px;
+}
+.skills-container{
     display: flex;
+    gap: 24px;
+    margin-bottom: 111px;
+    margin-top: 48px;
+    width: 1140px;
+    height: 299px;
+    padding-left: 100px;
+    
 }
+.skill{
+    padding: 30px;
+    border-radius: 5px;
+    width: 364px;
+    height: 299px;
+}
+.add{
+        background-color: #FF4C1E;
+}
+.add2{
+    background-color: #004CE8;
+}
+.add3{
+    background-color: #FFDF00;
+}
+.html-btn{
+    text-decoration-line: underline;
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: left;
+    background: none;
+    border: none;
+   
 
-
-
-
+}
 
 
 
